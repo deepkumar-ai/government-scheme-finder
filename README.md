@@ -4,9 +4,9 @@ Find Indian government schemes you may qualify for, check the documents you need
 compare schemes side by side, and ask an AI assistant questions about them.
 Available in **English and Hindi**.
 
-**Live demo:** _add your Streamlit Cloud link here_
+**Live demo:** _https://government-scheme-finder.streamlit.app/_
 
-![Screenshot](screenshots/home.png)
+![Screenshot](![alt text](image.png)(![alt text](image-1.png)))
 <!-- Add 2-3 screenshots (form, results, chatbot) and a short demo GIF to /screenshots -->
 
 ## Why this exists
