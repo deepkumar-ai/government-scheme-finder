@@ -34,7 +34,7 @@ STOPWORDS = {
 # ---------------------------------------------------------------- page setup
 st.set_page_config(
     page_title="Government Scheme Finder",
-    page_icon="🧧",
+    page_icon="📜",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -98,7 +98,7 @@ st.markdown("""
 # ------------------------------------------------------------------ UI text
 LANG_TEXT = {
     "English": {
-        "title": "Government Scheme Finder 🧧",
+        "title": "Government Scheme Finder 📜",
         "subtitle": "Discover tailored government schemes, track required documents, compare policies, and chat with our AI assistant.",
         "personal": "👤 Personal Details",
         "financial": "💼 Financial & Social Details",
@@ -138,7 +138,7 @@ LANG_TEXT = {
         "disclaimer": "This information is a guide only. Always confirm eligibility and documents on the official scheme website before applying.",
     },
     "हिंदी": {
-        "title": "सरकारी योजना फाइंडर 🧧",
+        "title": "सरकारी योजना फाइंडर 📜",
         "subtitle": "अपनी प्रोफ़ाइल के अनुसार सरकारी योजनाएं खोजें, दस्तावेज़ ट्रैक करें और AI सहायक से बात करें।",
         "personal": "👤 व्यक्तिगत जानकारी",
         "financial": "💼 आर्थिक और सामाजिक जानकारी",
