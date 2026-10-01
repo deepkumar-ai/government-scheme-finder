@@ -1,0 +1,2759 @@
+[
+  {
+    "scheme_name": "National Scholarship Portal (Post-Matric)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 15,
+      "max_income": 250000
+    },
+    "category": "Student",
+    "benefits": "Financial assistance for higher education including tuition fees and maintenance allowance.",
+    "financial_benefit": "Rs. 3,000 to Rs. 10,000 annually",
+    "required_documents": [
+      "Aadhaar",
+      "Income Certificate",
+      "Previous Marksheet",
+      "Fee Receipt"
+    ],
+    "application_link": "https://scholarships.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "PM Internship Scheme",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 800000
+    },
+    "category": "Student",
+    "benefits": "Professional 12-month internship and training opportunities in top 500 companies.",
+    "financial_benefit": "Rs. 5,000 monthly stipend + Rs. 6,000 one-time grant",
+    "required_documents": [
+      "Aadhaar",
+      "Graduation Certificate",
+      "Bank Passbook"
+    ],
+    "application_link": "https://www.pminternship.mca.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Pragati Scholarship for Girls",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 17,
+      "max_income": 800000
+    },
+    "category": "Student",
+    "benefits": "Scholarship for female students pursuing technical education (Degree/Diploma).",
+    "financial_benefit": "Rs. 50,000 annually (maximum 4 years)",
+    "required_documents": [
+      "Aadhaar",
+      "Income Certificate",
+      "Admission Letter",
+      "Bank Details"
+    ],
+    "application_link": "https://www.aicte-pragati-saksham-gov.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "National Means-cum-Merit Scholarship (NMMS)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 13,
+      "max_income": 350000
+    },
+    "category": "Student",
+    "benefits": "Financial support for meritorious students of economically weaker sections to arrest dropouts.",
+    "financial_benefit": "Rs. 12,000 per annum",
+    "required_documents": [
+      "Aadhaar",
+      "Income Certificate",
+      "7th Class Marksheet"
+    ],
+    "application_link": "https://scholarships.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Kishore Vaigyanik Protsahan Yojana (KVPY)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 16,
+      "max_income": 5000000
+    },
+    "category": "Student",
+    "benefits": "Fellowship for students interested in pursuing a research career in basic sciences.",
+    "financial_benefit": "Rs. 5,000 to Rs. 7,000 monthly + Contingency Grant",
+    "required_documents": [
+      "Aadhaar",
+      "School ID",
+      "Marksheet"
+    ],
+    "application_link": "http://kvpy.iisc.ernet.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "PM Kisan Samman Nidhi",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 600000
+    },
+    "category": "Farmer",
+    "benefits": "Direct financial support to small and marginal farmers for agricultural expenses.",
+    "financial_benefit": "Rs. 6,000 annually (in 3 installments of Rs. 2,000)",
+    "required_documents": [
+      "Aadhaar",
+      "Land Records (Khatauni)",
+      "Bank Passbook"
+    ],
+    "application_link": "https://pmkisan.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "PM Fasal Bima Yojana",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 2000000
+    },
+    "category": "Farmer",
+    "benefits": "Comprehensive insurance cover against crop loss due to natural calamities or pests.",
+    "financial_benefit": "Full claim amount as per crop damage assessment",
+    "required_documents": [
+      "Aadhaar",
+      "Land Ownership Record",
+      "Sowing Certificate"
+    ],
+    "application_link": "https://pmfby.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Kisan Credit Card (KCC)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 2000000
+    },
+    "category": "Farmer",
+    "benefits": "Short-term formal credit at subsidized interest rates (2% - 4%) for agricultural needs.",
+    "financial_benefit": "Subsidized loan up to Rs. 3 Lakh",
+    "required_documents": [
+      "Aadhaar",
+      "Land Records",
+      "Passport Size Photo"
+    ],
+    "application_link": "https://sbi.co.in/web/agri-rural/agriculture-banking/crop-loan/kisan-credit-card",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "PM KUSUM Yojana",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 2000000
+    },
+    "category": "Farmer",
+    "benefits": "Subsidy support for setting up solar pumps and grid-connected solar power plants.",
+    "financial_benefit": "Up to 60% subsidy on solar pump installation",
+    "required_documents": [
+      "Aadhaar",
+      "Land Documents",
+      "Bank Passbook"
+    ],
+    "application_link": "https://pmkusum.mnre.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 1500000
+    },
+    "category": "Farmer",
+    "benefits": "Cluster-based financial support to promote commercial organic farming.",
+    "financial_benefit": "Rs. 50,000 per hectare (over 3 years)",
+    "required_documents": [
+      "Aadhaar",
+      "Land Papers",
+      "Cluster Membership"
+    ],
+    "application_link": "https://pgsindia-ncof.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Soil Health Card Scheme",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 2000000
+    },
+    "category": "Farmer",
+    "benefits": "Provides farmers with soil nutrient status and fertilizer recommendations.",
+    "financial_benefit": "Free Soil Health Assessment and recommendations",
+    "required_documents": [
+      "Aadhaar",
+      "Land Record"
+    ],
+    "application_link": "https://soilhealth.dac.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 1000000
+    },
+    "category": "Business",
+    "benefits": "Collateral-free micro and small enterprise loans for non-corporate businesses.",
+    "financial_benefit": "Shishu: up to Rs. 50k, Kishore: up to Rs. 5L, Tarun: up to Rs. 10L",
+    "required_documents": [
+      "Aadhaar",
+      "PAN Card",
+      "Business Plan",
+      "ITR (if applicable)"
+    ],
+    "application_link": "https://www.mudra.org.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Stand-Up India Scheme",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 5000000
+    },
+    "category": "Business",
+    "benefits": "Bank loans for SC/ST and women entrepreneurs to establish greenfield enterprises.",
+    "financial_benefit": "Bank loans ranging from Rs. 10 Lakh to Rs. 1 Crore",
+    "required_documents": [
+      "Aadhaar",
+      "Caste Certificate",
+      "Project Report"
+    ],
+    "application_link": "https://www.standupmitra.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "PM SVANidhi Yojana",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 500000
+    },
+    "category": "Business",
+    "benefits": "Working capital micro-loans for street vendors to restart their livelihood.",
+    "financial_benefit": "Collateral-free working capital loan up to Rs. 50,000",
+    "required_documents": [
+      "Aadhaar",
+      "Vending Certificate",
+      "Bank Details"
+    ],
+    "application_link": "https://pmsvanidhi.mohua.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "PM Employment Generation Programme (PMEGP)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 2500000
+    },
+    "category": "Business",
+    "benefits": "Credit-linked subsidy scheme for setting up new micro-enterprises.",
+    "financial_benefit": "15% to 35% project cost subsidy (Max loan Rs. 50 Lakh)",
+    "required_documents": [
+      "Aadhaar",
+      "Project Report",
+      "Education Proof"
+    ],
+    "application_link": "https://www.kviconline.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Startup India Seed Fund Scheme",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 10000000
+    },
+    "category": "Business",
+    "benefits": "Financial assistance to early-stage startups for proof of concept and prototype development.",
+    "financial_benefit": "Rs. 20 Lakh (Proof of Concept) to Rs. 50 Lakh (Commercialization)",
+    "required_documents": [
+      "DPIIT Recognition",
+      "Pitch Deck",
+      "Incorporation Certificate"
+    ],
+    "application_link": "https://seedfund.startupindia.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "CGTMSE Scheme for MSMEs",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 10000000
+    },
+    "category": "Business",
+    "benefits": "Credit Guarantee Fund Trust for Micro and Small Enterprises without third-party guarantee.",
+    "financial_benefit": "Credit guarantee cover up to Rs. 5 Crore",
+    "required_documents": [
+      "Aadhaar",
+      "Udyam Registration",
+      "Business Plan",
+      "ITR"
+    ],
+    "application_link": "https://www.cgtmse.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 0,
+      "max_income": 10000000
+    },
+    "category": "Women",
+    "benefits": "Tax-free, high-yield savings scheme specifically designed for the welfare of girl children.",
+    "financial_benefit": "8.2% annual compound interest with tax-free returns",
+    "required_documents": [
+      "Girl Child Birth Certificate",
+      "Parents Aadhaar",
+      "Address Proof"
+    ],
+    "application_link": "https://www.indiapost.gov.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Mahila Samman Savings Certificate",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 0,
+      "max_income": 10000000
+    },
+    "category": "Women",
+    "benefits": "Short-term fixed deposit scheme offering attractive returns for women and girls.",
+    "financial_benefit": "7.5% fixed interest rate (on deposits up to Rs. 2 Lakh)",
+    "required_documents": [
+      "Aadhaar",
+      "PAN Card",
+      "Account Opening Form"
+    ],
+    "application_link": "https://www.indiapost.gov.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "PM Matru Vandana Yojana (PMMVY)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 19,
+      "max_income": 800000
+    },
+    "category": "Women",
+    "benefits": "Maternity benefit cash incentive for pregnant and lactating mothers for their first child.",
+    "financial_benefit": "Rs. 5,000 cash transfer across structured installments",
+    "required_documents": [
+      "Aadhaar",
+      "MCP Card",
+      "Bank Account Details"
+    ],
+    "application_link": "https://pmmvy.wcd.gov.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Pradhan Mantri Ujjwala Yojana",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 250000
+    },
+    "category": "Women",
+    "benefits": "Free LPG gas connections to women belonging to Below Poverty Line (BPL) households.",
+    "financial_benefit": "Free LPG connection with the first refill sponsored",
+    "required_documents": [
+      "Aadhaar",
+      "BPL Ration Card",
+      "Bank Passbook"
+    ],
+    "application_link": "https://www.pmuy.gov.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Lakhpati Didi Yojana",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 500000
+    },
+    "category": "Women",
+    "benefits": "Skill training and micro-finance support for Self Help Group (SHG) women.",
+    "financial_benefit": "Aims to empower households to achieve annual income of Rs. 1 Lakh",
+    "required_documents": [
+      "Aadhaar",
+      "SHG Membership Proof",
+      "Bank Account"
+    ],
+    "application_link": "https://aajeevika.gov.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Beti Bachao Beti Padhao",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 0,
+      "max_income": 10000000
+    },
+    "category": "Women",
+    "benefits": "Prevention of gender-biased sex selective elimination and ensuring education of girls.",
+    "financial_benefit": "Varies by state (Educational grants and awareness support)",
+    "required_documents": [
+      "Aadhaar",
+      "Birth Certificate"
+    ],
+    "application_link": "https://wcd.nic.in/bbbp-schemes",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Senior Citizen Savings Scheme (SCSS)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 60,
+      "max_income": 10000000
+    },
+    "category": "Senior Citizen",
+    "benefits": "Safe investment option with high returns ensuring regular quarterly income post-retirement.",
+    "financial_benefit": "8.2% quarterly interest on deposits up to Rs. 30 Lakh",
+    "required_documents": [
+      "Aadhaar",
+      "PAN Card",
+      "Age Proof"
+    ],
+    "application_link": "https://www.indiapost.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Indira Gandhi National Old Age Pension Scheme",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 60,
+      "max_income": 200000
+    },
+    "category": "Senior Citizen",
+    "benefits": "Monthly pension assistance for senior citizens living below the poverty line.",
+    "financial_benefit": "Rs. 200 to Rs. 500 monthly pension (varies by state)",
+    "required_documents": [
+      "Aadhaar",
+      "BPL Card",
+      "Age Certificate"
+    ],
+    "application_link": "https://socialsecurity.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Rashtriya Vayoshri Yojana",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 60,
+      "max_income": 200000
+    },
+    "category": "Senior Citizen",
+    "benefits": "Provision of physical aids and assisted-living devices for BPL senior citizens.",
+    "financial_benefit": "Free assistive devices (Wheelchairs, Hearing Aids, etc.)",
+    "required_documents": [
+      "Aadhaar",
+      "BPL Certificate",
+      "Medical Certificate"
+    ],
+    "application_link": "https://socialjustice.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Pradhan Mantri Vaya Vandana Yojana",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 60,
+      "max_income": 10000000
+    },
+    "category": "Senior Citizen",
+    "benefits": "Social security pension scheme implemented via LIC offering guaranteed returns.",
+    "financial_benefit": "7.4% assured return with monthly pension up to Rs. 9,250",
+    "required_documents": [
+      "Aadhaar",
+      "PAN Card",
+      "Bank Details"
+    ],
+    "application_link": "https://licindia.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Ayushman Bharat PM-JAY",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 0,
+      "max_income": 500000
+    },
+    "category": "General",
+    "benefits": "Comprehensive health insurance cover for secondary and tertiary hospitalization.",
+    "financial_benefit": "Free cashless medical treatment up to Rs. 5 Lakh per family annually",
+    "required_documents": [
+      "Aadhaar",
+      "Ration Card",
+      "PM-JAY e-Card"
+    ],
+    "application_link": "https://pmjay.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Atal Pension Yojana (APY)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 1000000
+    },
+    "category": "General",
+    "benefits": "Guaranteed minimum pension scheme tailored for workers in the unorganized sector.",
+    "financial_benefit": "Guaranteed monthly pension ranging from Rs. 1,000 to Rs. 5,000 (at age 60)",
+    "required_documents": [
+      "Aadhaar",
+      "Savings Bank Account"
+    ],
+    "application_link": "https://www.npscra.nsdl.co.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "PM Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 10000000
+    },
+    "category": "General",
+    "benefits": "Affordable term life insurance coverage providing financial protection in case of death.",
+    "financial_benefit": "Rs. 2 Lakh life insurance cover (Annual premium Rs. 436)",
+    "required_documents": [
+      "Aadhaar",
+      "Bank Account with Auto-debit mandate"
+    ],
+    "application_link": "https://jansuraksha.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "PM Suraksha Bima Yojana (PMSBY)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 10000000
+    },
+    "category": "General",
+    "benefits": "Accidental insurance coverage against death or permanent disability.",
+    "financial_benefit": "Rs. 2 Lakh accidental cover (Annual premium Rs. 20)",
+    "required_documents": [
+      "Aadhaar",
+      "Bank Account with Auto-debit mandate"
+    ],
+    "application_link": "https://jansuraksha.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Pradhan Mantri Awas Yojana (PMAY-U/G)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 21,
+      "max_income": 1800000
+    },
+    "category": "General",
+    "benefits": "Interest subsidy on home loans to facilitate affordable housing construction.",
+    "financial_benefit": "Upfront interest subsidy of up to Rs. 2.67 Lakh",
+    "required_documents": [
+      "Aadhaar",
+      "Income Proof",
+      "Property Documents"
+    ],
+    "application_link": "https://pmaymis.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "e-Shram Portal Registration",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 16,
+      "max_income": 300000
+    },
+    "category": "General",
+    "benefits": "National database registration for unorganized sector workers.",
+    "financial_benefit": "Rs. 2 Lakh accidental insurance cover + future welfare DBTs",
+    "required_documents": [
+      "Aadhaar",
+      "Bank Account",
+      "Mobile linked with Aadhaar"
+    ],
+    "application_link": "https://eshram.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Jal Jeevan Mission",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 10000000
+    },
+    "category": "General",
+    "benefits": "Safe and adequate drinking water through individual household tap connections.",
+    "financial_benefit": "Free/subsidized functional household tap connection",
+    "required_documents": [
+      "Aadhaar",
+      "Address Proof"
+    ],
+    "application_link": "https://jaljeevanmission.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Delhi Ladli Scheme",
+    "state": "Delhi",
+    "eligibility": {
+      "min_age": 0,
+      "max_income": 100000
+    },
+    "category": "Women",
+    "benefits": "Financial assistance to empower girl children born in Delhi.",
+    "financial_benefit": "Rs. 10,000 to Rs. 11,000 at different stages of education",
+    "required_documents": [
+      "Aadhaar",
+      "Delhi Domicile (3 years)",
+      "Income Certificate",
+      "Girl's Birth Certificate"
+    ],
+    "application_link": "https://wcddel.in/ladli.html",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Delhi Pension Scheme for Women in Distress",
+    "state": "Delhi",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 100000
+    },
+    "category": "Women",
+    "benefits": "Financial assistance for widows, divorced, or destitute women.",
+    "financial_benefit": "Rs. 2,500 monthly pension",
+    "required_documents": [
+      "Aadhaar",
+      "Delhi Domicile (5 years)",
+      "Income Certificate",
+      "Death/Divorce Certificate"
+    ],
+    "application_link": "https://edistrict.delhigovt.nic.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Mukhyamantri Kanya Sumangala Yojana",
+    "state": "Uttar Pradesh",
+    "eligibility": {
+      "min_age": 0,
+      "max_income": 300000
+    },
+    "category": "Women",
+    "benefits": "Conditional cash transfer scheme to support the health and education of girls in UP.",
+    "financial_benefit": "Rs. 15,000 per girl child across 6 educational milestones",
+    "required_documents": [
+      "Aadhaar",
+      "UP Domicile",
+      "Income Certificate",
+      "Bank Passbook"
+    ],
+    "application_link": "https://mksy.up.gov.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "UP Mukhyamantri Yuva Swarozgar Yojana",
+    "state": "Uttar Pradesh",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 1000000
+    },
+    "category": "Business",
+    "benefits": "Promoting self-employment among educated youth in UP via margin money subsidy.",
+    "financial_benefit": "Project cost up to Rs. 25 Lakh (Industry) with 25% margin money subsidy",
+    "required_documents": [
+      "Aadhaar",
+      "UP Domicile",
+      "Project Report",
+      "Education Proof"
+    ],
+    "application_link": "https://diupmsme.upsdc.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Mahatma Jyotirao Phule Jan Arogya Yojana",
+    "state": "Maharashtra",
+    "eligibility": {
+      "min_age": 0,
+      "max_income": 100000
+    },
+    "category": "General",
+    "benefits": "State government health insurance scheme for BPL and APL families in Maharashtra.",
+    "financial_benefit": "Cashless medical treatment up to Rs. 1.5 Lakh per family per year",
+    "required_documents": [
+      "Aadhaar",
+      "Ration Card (Yellow/Orange)",
+      "Domicile Certificate"
+    ],
+    "application_link": "https://www.jeevandayee.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Majhi Kanya Bhagyashree Yojana",
+    "state": "Maharashtra",
+    "eligibility": {
+      "min_age": 0,
+      "max_income": 750000
+    },
+    "category": "Women",
+    "benefits": "Financial incentive to families retaining girl children and educating them.",
+    "financial_benefit": "Up to Rs. 50,000 fixed deposit upon family planning post girl child",
+    "required_documents": [
+      "Aadhaar",
+      "Maharashtra Domicile",
+      "Income Certificate",
+      "Birth Certificate"
+    ],
+    "application_link": "https://womenchild.maharashtra.gov.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Mukhyamantri Udyami Yojana",
+    "state": "Bihar",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 5000000
+    },
+    "category": "Business",
+    "benefits": "Financial support for SC/ST, OBC, and women entrepreneurs to start businesses in Bihar.",
+    "financial_benefit": "Rs. 10 Lakh project cost (Rs. 5 Lakh grant + Rs. 5 Lakh interest-free loan)",
+    "required_documents": [
+      "Aadhaar",
+      "Bihar Domicile",
+      "Caste Certificate",
+      "Current Account Details"
+    ],
+    "application_link": "https://udyami.bihar.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Bihar Student Credit Card Yojana",
+    "state": "Bihar",
+    "eligibility": {
+      "min_age": 15,
+      "max_income": 10000000
+    },
+    "category": "Student",
+    "benefits": "Education loan facility for students pursuing higher education.",
+    "financial_benefit": "Education loan up to Rs. 4 Lakh at minimal interest rates",
+    "required_documents": [
+      "Aadhaar",
+      "Bihar Domicile",
+      "Admission Letter",
+      "12th Marksheet"
+    ],
+    "application_link": "https://www.7nishchay-yuvaupmission.bihar.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Chiranjeevi Swasthya Bima Yojana",
+    "state": "Rajasthan",
+    "eligibility": {
+      "min_age": 0,
+      "max_income": 800000
+    },
+    "category": "General",
+    "benefits": "Universal health insurance scheme for residents of Rajasthan.",
+    "financial_benefit": "Cashless treatment up to Rs. 25 Lakh in affiliated hospitals",
+    "required_documents": [
+      "Jan Aadhaar Card",
+      "Aadhaar",
+      "Income Proof"
+    ],
+    "application_link": "https://chiranjeevi.rajasthan.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Rajasthan Berozgari Bhatta (Mukhyamantri Yuva Sambal)",
+    "state": "Rajasthan",
+    "eligibility": {
+      "min_age": 21,
+      "max_income": 200000
+    },
+    "category": "Student",
+    "benefits": "Unemployment allowance for educated youth seeking jobs.",
+    "financial_benefit": "Rs. 4,000 for men, Rs. 4,500 for women/transgender monthly",
+    "required_documents": [
+      "Jan Aadhaar Card",
+      "Graduation Degree",
+      "SBI Bank Account",
+      "Domicile"
+    ],
+    "application_link": "https://employment.livelihoods.rajasthan.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Palankar Yojana",
+    "state": "Rajasthan",
+    "eligibility": {
+      "min_age": 0,
+      "max_income": 120000
+    },
+    "category": "General",
+    "benefits": "Assistance for the care and education of orphaned or vulnerable children.",
+    "financial_benefit": "Rs. 500 - Rs. 1,000 monthly + Rs. 2,000 annual grant",
+    "required_documents": [
+      "Jan Aadhaar Card",
+      "Orphan Certificate",
+      "Income Proof"
+    ],
+    "application_link": "https://sje.rajasthan.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Savitribai Phule Pune University Scholarships",
+    "state": "Maharashtra",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 300000
+    },
+    "category": "Student",
+    "benefits": "Financial assistance for meritorious and needy students studying in MH universities.",
+    "financial_benefit": "Varies by course (covers full or partial tuition fees)",
+    "required_documents": [
+      "Aadhaar",
+      "MH Domicile",
+      "Marksheet",
+      "Income Certificate"
+    ],
+    "application_link": "https://mahadbtmahait.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "UP Kanya Vidya Dhan Yojana",
+    "state": "Uttar Pradesh",
+    "eligibility": {
+      "min_age": 16,
+      "max_income": 120000
+    },
+    "category": "Student",
+    "benefits": "Financial assistance to meritorious girl students passing Class 12 from UP board.",
+    "financial_benefit": "One-time grant of Rs. 30,000 for higher education",
+    "required_documents": [
+      "Aadhaar",
+      "UP Domicile",
+      "12th Marksheet",
+      "Income Certificate"
+    ],
+    "application_link": "https://up.gov.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Bihar Kanya Utthan Yojana",
+    "state": "Bihar",
+    "eligibility": {
+      "min_age": 0,
+      "max_income": 10000000
+    },
+    "category": "Women",
+    "benefits": "Promotion of female education from birth till graduation.",
+    "financial_benefit": "Rs. 50,000 distributed in phases up to graduation",
+    "required_documents": [
+      "Aadhaar",
+      "Bihar Domicile",
+      "Bank Details",
+      "Marksheets"
+    ],
+    "application_link": "https://edudbt.bih.nic.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Delhi Mukhyamantri Vidyarthi Pratibha Yojana",
+    "state": "Delhi",
+    "eligibility": {
+      "min_age": 14,
+      "max_income": 200000
+    },
+    "category": "Student",
+    "benefits": "Financial aid for SC/ST/OBC students scoring good marks in Class 9 and 10.",
+    "financial_benefit": "Rs. 5,000 to Rs. 10,000 per annum",
+    "required_documents": [
+      "Aadhaar",
+      "Caste Certificate",
+      "Previous Marksheet",
+      "Income Proof"
+    ],
+    "application_link": "https://edistrict.delhigovt.nic.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Nai Roshni Scheme",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 250000
+    },
+    "category": "Women",
+    "benefits": "Leadership development programme for minority women.",
+    "financial_benefit": "Training stipends and self-employment linkage assistance",
+    "required_documents": [
+      "Aadhaar",
+      "Minority Certificate",
+      "Bank Passbook"
+    ],
+    "application_link": "https://minorityaffairs.gov.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "Minority",
+      "OBC"
+    ]
+  },
+  {
+    "scheme_name": "Jai Bhim Mukhyamantri Pratibha Vikas Yojana",
+    "state": "Delhi",
+    "eligibility": {
+      "min_age": 16,
+      "max_income": 800000
+    },
+    "category": "Student",
+    "benefits": "Free coaching for competitive exams (JEE, NEET, UPSC, etc.) for reserved category and EWS students.",
+    "financial_benefit": "Full coaching fee waiver + Rs. 2,500 monthly stipend",
+    "required_documents": [
+      "Aadhaar",
+      "Delhi Domicile",
+      "Caste Certificate",
+      "Income Certificate"
+    ],
+    "application_link": "https://scstwelfare.delhigovt.nic.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Delhi Disabled Pension Scheme",
+    "state": "Delhi",
+    "eligibility": {
+      "min_age": 0,
+      "max_income": 100000
+    },
+    "category": "General",
+    "benefits": "Financial assistance to persons with special needs (disabilities).",
+    "financial_benefit": "Rs. 2,500 monthly pension",
+    "required_documents": [
+      "Aadhaar",
+      "Disability Certificate",
+      "Delhi Domicile (5 years)",
+      "Income Proof"
+    ],
+    "application_link": "https://edistrict.delhigovt.nic.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "DTC Free Bus Ride Scheme for Women",
+    "state": "Delhi",
+    "eligibility": {
+      "min_age": 0,
+      "max_income": 10000000
+    },
+    "category": "Women",
+    "benefits": "Free travel facility for women passengers in Delhi Transport Corporation (DTC) and cluster buses.",
+    "financial_benefit": "Free bus travel via Pink Ticket",
+    "required_documents": [
+      "None required (Issued on the bus)"
+    ],
+    "application_link": "https://dtc.delhi.gov.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Delhi Family Benefit Scheme",
+    "state": "Delhi",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 100000
+    },
+    "category": "General",
+    "benefits": "Financial assistance to the family on the death of the primary breadwinner.",
+    "financial_benefit": "One-time grant of Rs. 20,000",
+    "required_documents": [
+      "Aadhaar",
+      "Death Certificate",
+      "Delhi Domicile",
+      "Income Proof"
+    ],
+    "application_link": "https://edistrict.delhigovt.nic.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Swami Vivekananda Youth Empowerment Scheme",
+    "state": "Uttar Pradesh",
+    "eligibility": {
+      "min_age": 17,
+      "max_income": 10000000
+    },
+    "category": "Student",
+    "benefits": "Free smartphones and tablets distribution to students pursuing higher education.",
+    "financial_benefit": "Free Smartphone or Tablet for digital learning",
+    "required_documents": [
+      "Aadhaar",
+      "UP Domicile",
+      "University/College ID"
+    ],
+    "application_link": "https://digishakti.up.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "UP Vishwakarma Shram Samman Yojana",
+    "state": "Uttar Pradesh",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 10000000
+    },
+    "category": "Business",
+    "benefits": "Training and toolkit distribution to traditional artisans and craftsmen.",
+    "financial_benefit": "Free toolkit + Financial assistance to set up business",
+    "required_documents": [
+      "Aadhaar",
+      "UP Domicile",
+      "Caste Certificate (if applicable)"
+    ],
+    "application_link": "https://diupmsme.upsdc.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "UP Bhagyalakshmi Yojana",
+    "state": "Uttar Pradesh",
+    "eligibility": {
+      "min_age": 0,
+      "max_income": 200000
+    },
+    "category": "Women",
+    "benefits": "Financial assistance to BPL families on the birth of a girl child to prevent female feticide.",
+    "financial_benefit": "Rs. 50,000 bond at birth + Rs. 5,100 to mother",
+    "required_documents": [
+      "Aadhaar",
+      "UP Domicile",
+      "Birth Certificate",
+      "BPL Card"
+    ],
+    "application_link": "https://wcd.up.nic.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "UP Gopalak Yojana",
+    "state": "Uttar Pradesh",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 100000
+    },
+    "category": "Business",
+    "benefits": "Promoting dairy farming among unemployed youth by providing loans.",
+    "financial_benefit": "Loan up to Rs. 9 Lakh with bank subsidy",
+    "required_documents": [
+      "Aadhaar",
+      "UP Domicile",
+      "Income Certificate"
+    ],
+    "application_link": "https://ahd.up.nic.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "UP Divyang Pension Yojana",
+    "state": "Uttar Pradesh",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 46080
+    },
+    "category": "General",
+    "benefits": "Monthly pension for differently-abled citizens residing in UP.",
+    "financial_benefit": "Rs. 1,000 monthly pension",
+    "required_documents": [
+      "Aadhaar",
+      "Disability Certificate (Min 40%)",
+      "UP Domicile"
+    ],
+    "application_link": "https://sspy-up.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "UP BC Sakhi Yojana",
+    "state": "Uttar Pradesh",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 500000
+    },
+    "category": "Women",
+    "benefits": "Employment for rural women as Banking Correspondent (BC) Sakhis.",
+    "financial_benefit": "Rs. 4,000 monthly stipend for 6 months + banking commission",
+    "required_documents": [
+      "Aadhaar",
+      "10th Marksheet",
+      "UP Domicile"
+    ],
+    "application_link": "https://upsrlm.org",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Sanjay Gandhi Niradhar Pension Yojana",
+    "state": "Maharashtra",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 21000
+    },
+    "category": "General",
+    "benefits": "Pension for destitute persons, blind, disabled, and widows in Maharashtra.",
+    "financial_benefit": "Rs. 1,000 to Rs. 1,200 monthly pension",
+    "required_documents": [
+      "Aadhaar",
+      "Income Certificate",
+      "Maharashtra Domicile",
+      "Age Proof"
+    ],
+    "application_link": "https://sjsa.maharashtra.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna",
+    "state": "Maharashtra",
+    "eligibility": {
+      "min_age": 17,
+      "max_income": 800000
+    },
+    "category": "Student",
+    "benefits": "Hostel maintenance allowance for students pursuing professional courses.",
+    "financial_benefit": "Rs. 20,000 to Rs. 30,000 per annum for hostel expenses",
+    "required_documents": [
+      "Aadhaar",
+      "Income Proof",
+      "Hostel Admission Proof",
+      "MH Domicile"
+    ],
+    "application_link": "https://mahadbtmahait.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna",
+    "state": "Maharashtra",
+    "eligibility": {
+      "min_age": 17,
+      "max_income": 800000
+    },
+    "category": "Student",
+    "benefits": "Reimbursement of tuition and exam fees for EBC category students.",
+    "financial_benefit": "50% to 100% tuition fee waiver",
+    "required_documents": [
+      "Aadhaar",
+      "Income Certificate",
+      "CAP Allotment Letter"
+    ],
+    "application_link": "https://mahadbtmahait.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Bhausaheb Fundkar Phalbag Lagwad Yojana",
+    "state": "Maharashtra",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 2000000
+    },
+    "category": "Farmer",
+    "benefits": "Financial assistance to farmers for planting fruit orchards to increase agricultural income.",
+    "financial_benefit": "100% subsidy for fruit plantation (material and labor)",
+    "required_documents": [
+      "Aadhaar",
+      "7/12 Extract",
+      "8A Khata",
+      "Bank Passbook"
+    ],
+    "application_link": "https://mahadbtmahait.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Nav Tejaswini Yojana",
+    "state": "Maharashtra",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 500000
+    },
+    "category": "Women",
+    "benefits": "Empowerment and micro-finance for women Self Help Groups (SHGs) in rural Maharashtra.",
+    "financial_benefit": "Subsidized loans and skill training for rural enterprises",
+    "required_documents": [
+      "Aadhaar",
+      "SHG Registration",
+      "MH Domicile"
+    ],
+    "application_link": "https://maharashtra.gov.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Mukhyamantri Vridhjan Pension Yojana",
+    "state": "Bihar",
+    "eligibility": {
+      "min_age": 60,
+      "max_income": 2000000
+    },
+    "category": "Senior Citizen",
+    "benefits": "Universal old age pension for all senior citizens of Bihar irrespective of BPL/APL.",
+    "financial_benefit": "Rs. 400 monthly (Age 60-79) and Rs. 500 monthly (Age 80+)",
+    "required_documents": [
+      "Aadhaar",
+      "Bihar Domicile",
+      "Voter ID",
+      "Bank Account"
+    ],
+    "application_link": "https://sspmis.bihar.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Mukhyamantri Balika Cycle Yojana",
+    "state": "Bihar",
+    "eligibility": {
+      "min_age": 13,
+      "max_income": 10000000
+    },
+    "category": "Student",
+    "benefits": "Provides funds to girls in Class 9 to purchase a bicycle to reduce school dropouts.",
+    "financial_benefit": "Rs. 3,000 direct cash transfer to purchase a bicycle",
+    "required_documents": [
+      "Aadhaar",
+      "School ID/Admission Proof",
+      "Bihar Domicile"
+    ],
+    "application_link": "https://education.bihar.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Bihar Krishi Yantra Yojana",
+    "state": "Bihar",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 5000000
+    },
+    "category": "Farmer",
+    "benefits": "Subsidy on the purchase of modern agricultural machinery and equipment.",
+    "financial_benefit": "40% to 80% subsidy on farming equipment",
+    "required_documents": [
+      "Aadhaar",
+      "LPC (Land Possession Certificate)",
+      "Farmer Registration Number"
+    ],
+    "application_link": "https://farmech.bih.nic.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Bihar Berozgari Bhatta Yojana",
+    "state": "Bihar",
+    "eligibility": {
+      "min_age": 20,
+      "max_income": 300000
+    },
+    "category": "Student",
+    "benefits": "Unemployment allowance for educated youth seeking employment.",
+    "financial_benefit": "Rs. 1,000 per month for up to 2 years",
+    "required_documents": [
+      "Aadhaar",
+      "12th/Graduation Marksheet",
+      "Bihar Domicile"
+    ],
+    "application_link": "https://www.7nishchay-yuvaupmission.bihar.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Bihar Fasal Sahayata Yojana",
+    "state": "Bihar",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 2000000
+    },
+    "category": "Farmer",
+    "benefits": "Financial assistance to farmers in case of crop loss due to natural calamities.",
+    "financial_benefit": "Rs. 7,500 to Rs. 10,000 per hectare based on damage",
+    "required_documents": [
+      "Aadhaar",
+      "LPC",
+      "Sowing Certificate"
+    ],
+    "application_link": "https://pacsonline.bih.nic.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Rajasthan Gargi Puraskar",
+    "state": "Rajasthan",
+    "eligibility": {
+      "min_age": 15,
+      "max_income": 10000000
+    },
+    "category": "Student",
+    "benefits": "Incentive for girls passing Class 10 and Class 12 with 75% and above in Rajasthan Board.",
+    "financial_benefit": "Rs. 3,000 to Rs. 5,000 scholarship",
+    "required_documents": [
+      "Jan Aadhaar Card",
+      "Aadhaar",
+      "Marksheet",
+      "School Certificate"
+    ],
+    "application_link": "https://rajshaladarpan.nic.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Mukhyamantri Rajshree Yojana",
+    "state": "Rajasthan",
+    "eligibility": {
+      "min_age": 0,
+      "max_income": 10000000
+    },
+    "category": "Women",
+    "benefits": "Financial assistance from birth to Class 12 for girls born in Rajasthan.",
+    "financial_benefit": "Up to Rs. 50,000 in 6 installments across different life stages",
+    "required_documents": [
+      "Jan Aadhaar Card",
+      "Birth Certificate",
+      "MCTS Card"
+    ],
+    "application_link": "https://wcd.rajasthan.gov.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Indira Gandhi Shehari Rozgar Guarantee Yojana",
+    "state": "Rajasthan",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 10000000
+    },
+    "category": "General",
+    "benefits": "Employment guarantee for urban families, similar to MNREGA.",
+    "financial_benefit": "100 days of guaranteed wage employment per year",
+    "required_documents": [
+      "Jan Aadhaar Card",
+      "Aadhaar",
+      "Urban Address Proof"
+    ],
+    "application_link": "https://lsg.urban.rajasthan.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Rajasthan Tarbandi Yojana",
+    "state": "Rajasthan",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 2000000
+    },
+    "category": "Farmer",
+    "benefits": "Financial assistance for wire fencing of agricultural fields to protect crops from stray animals.",
+    "financial_benefit": "50% subsidy of the cost or up to Rs. 40,000",
+    "required_documents": [
+      "Jan Aadhaar Card",
+      "Jamabandi (Land Record)",
+      "Bank Details"
+    ],
+    "application_link": "https://agriculture.rajasthan.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Rajasthan Silicosis Policy Pension",
+    "state": "Rajasthan",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 10000000
+    },
+    "category": "General",
+    "benefits": "Financial relief and pension for mine workers affected by Silicosis disease.",
+    "financial_benefit": "Rs. 3 Lakh rehabilitation grant + Rs. 1,500 monthly pension",
+    "required_documents": [
+      "Jan Aadhaar Card",
+      "Medical Certificate for Silicosis",
+      "Aadhaar"
+    ],
+    "application_link": "https://sje.rajasthan.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 15,
+      "max_income": 300000
+    },
+    "category": "Student",
+    "benefits": "Skill training and placement assistance for rural youth from poor families.",
+    "financial_benefit": "Free skill training, boarding, lodging, and placement",
+    "required_documents": [
+      "Aadhaar",
+      "BPL Card/Income Proof",
+      "Education Certificate"
+    ],
+    "application_link": "http://ddugky.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "PM Shram Yogi Maan-dhan (PM-SYM)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 180000
+    },
+    "category": "General",
+    "benefits": "Voluntary contributory pension scheme for unorganized sector workers.",
+    "financial_benefit": "Assured monthly pension of Rs. 3,000 after age 60",
+    "required_documents": [
+      "Aadhaar",
+      "Savings Bank Account / Jan Dhan Account"
+    ],
+    "application_link": "https://maandhan.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "National Family Benefit Scheme (NFBS)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 100000
+    },
+    "category": "General",
+    "benefits": "Financial assistance to a BPL household on the death of the primary breadwinner.",
+    "financial_benefit": "One-time lump sum grant of Rs. 20,000",
+    "required_documents": [
+      "Aadhaar",
+      "Death Certificate",
+      "BPL Card"
+    ],
+    "application_link": "https://nsap.nic.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Janani Suraksha Yojana (JSY)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 19,
+      "max_income": 200000
+    },
+    "category": "Women",
+    "benefits": "Safe motherhood intervention promoting institutional delivery among poor pregnant women.",
+    "financial_benefit": "Cash assistance up to Rs. 1,400 for rural and Rs. 1,000 for urban women",
+    "required_documents": [
+      "Aadhaar",
+      "BPL Ration Card",
+      "JSA Card / MCP Card"
+    ],
+    "application_link": "https://nhm.gov.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "SWADHAR Greh Scheme",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 100000
+    },
+    "category": "Women",
+    "benefits": "Rehabilitation center providing shelter, food, and counseling for women in difficult circumstances.",
+    "financial_benefit": "Free shelter, medical care, and legal aid",
+    "required_documents": [
+      "Aadhaar (if available)",
+      "FIR/Incident Proof (if applicable)"
+    ],
+    "application_link": "https://wcd.nic.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "UDAAN Scheme (CBSE)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 16,
+      "max_income": 600000
+    },
+    "category": "Student",
+    "benefits": "Mentoring and preparation assistance for girl students in Class 11 and 12 to crack engineering entrance exams.",
+    "financial_benefit": "Free comprehensive study material and weekend contact classes",
+    "required_documents": [
+      "Aadhaar",
+      "Class 10 Marksheet",
+      "Income Certificate"
+    ],
+    "application_link": "http://cbseacademic.nic.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "PM-DAKSH Yojana",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 300000
+    },
+    "category": "General",
+    "benefits": "Skill development training for SC, OBC, EBC, DNT, and Safai Karamcharis.",
+    "financial_benefit": "Free training + stipend up to Rs. 1,500 per month",
+    "required_documents": [
+      "Aadhaar",
+      "Caste Certificate",
+      "Income Certificate"
+    ],
+    "application_link": "https://pmdaksh.dosje.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "INSPIRE Scholarship",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 17,
+      "max_income": 10000000
+    },
+    "category": "Student",
+    "benefits": "Scholarship for top 1% board students pursuing higher education in Basic and Natural Sciences.",
+    "financial_benefit": "Rs. 80,000 annually",
+    "required_documents": [
+      "Aadhaar",
+      "Class 12 Marksheet",
+      "College Admission Proof"
+    ],
+    "application_link": "https://online-inspire.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 15,
+      "max_income": 10000000
+    },
+    "category": "Student",
+    "benefits": "Industry-relevant skill training for school dropouts and unemployed youth.",
+    "financial_benefit": "Free skill certification + Placement assistance",
+    "required_documents": [
+      "Aadhaar",
+      "Bank Account",
+      "Passport Size Photo"
+    ],
+    "application_link": "https://www.pmkvyofficial.org",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Kasturba Gandhi Balika Vidyalaya (KGBV)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 10,
+      "max_income": 200000
+    },
+    "category": "Student",
+    "benefits": "Residential upper primary schools for girls from SC, ST, OBC, Minority, and BPL families.",
+    "financial_benefit": "Free education, boarding, and lodging up to Class 12",
+    "required_documents": [
+      "Aadhaar",
+      "Caste Certificate",
+      "BPL Certificate"
+    ],
+    "application_link": "https://samagra.education.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "Minority",
+      "OBC"
+    ]
+  },
+  {
+    "scheme_name": "PMEGP - Prime Minister's Employment Generation Programme",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 5000000
+    },
+    "category": "Business",
+    "benefits": "Credit-linked subsidy to set up micro-enterprises in non-farm sectors.",
+    "financial_benefit": "Up to 35% subsidy on project costs up to Rs. 50 Lakh",
+    "required_documents": [
+      "Aadhaar",
+      "Project Report",
+      "Education Certificate (8th Pass)"
+    ],
+    "application_link": "https://www.kviconline.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Vivad se Vishwas Scheme (MSME)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 100000000
+    },
+    "category": "Business",
+    "benefits": "Relief to MSMEs for non-execution of government contracts during the COVID-19 period.",
+    "financial_benefit": "Refund of 95% of performance security or liquidated damages",
+    "required_documents": [
+      "Udyam Registration",
+      "Contract Documents",
+      "GeM Portal ID"
+    ],
+    "application_link": "https://gem.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Credit Linked Capital Subsidy Scheme (CLCSS)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 100000000
+    },
+    "category": "Business",
+    "benefits": "Technology upgradation support for Micro and Small Enterprises.",
+    "financial_benefit": "15% capital subsidy up to Rs. 15 Lakh on machinery purchase",
+    "required_documents": [
+      "Aadhaar",
+      "Udyam Registration",
+      "Machinery Quotation"
+    ],
+    "application_link": "https://msme.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "National Livestock Mission (NLM)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 5000000
+    },
+    "category": "Farmer",
+    "benefits": "Subsidies for establishing poultry, goat, sheep, and pig breeding farms.",
+    "financial_benefit": "50% capital subsidy up to Rs. 50 Lakh",
+    "required_documents": [
+      "Aadhaar",
+      "Land Records",
+      "Detailed Project Report",
+      "Bank Loan Approval"
+    ],
+    "application_link": "https://nlm.udyamimitra.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "e-NAM (National Agriculture Market)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 10000000
+    },
+    "category": "Farmer",
+    "benefits": "Pan-India electronic trading portal networking the existing APMC mandis.",
+    "financial_benefit": "Better price discovery and online payment for crops",
+    "required_documents": [
+      "Aadhaar",
+      "Bank Account",
+      "Mobile Number"
+    ],
+    "application_link": "https://enam.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Post Office Monthly Income Scheme (POMIS)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 10000000
+    },
+    "category": "General",
+    "benefits": "Safe investment scheme offering guaranteed monthly interest payouts.",
+    "financial_benefit": "7.4% annual interest paid monthly (Max deposit Rs. 9 Lakh for individual)",
+    "required_documents": [
+      "Aadhaar",
+      "PAN Card",
+      "Passport Size Photo"
+    ],
+    "application_link": "https://www.indiapost.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "PM Garib Kalyan Anna Yojana",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 0,
+      "max_income": 200000
+    },
+    "category": "General",
+    "benefits": "Free food grains to poor families covered under the National Food Security Act.",
+    "financial_benefit": "5 Kg free wheat/rice per person per month",
+    "required_documents": [
+      "Aadhaar",
+      "Ration Card (AAY or PHH)"
+    ],
+    "application_link": "https://dfpd.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "National Safai Karamcharis Finance and Development Corporation (NSKFDC)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 500000
+    },
+    "category": "Business",
+    "benefits": "Loans and skill training for Safai Karamcharis and Manual Scavengers to start businesses.",
+    "financial_benefit": "Term loans up to Rs. 15 Lakh at subsidized interest rates (4-6%)",
+    "required_documents": [
+      "Aadhaar",
+      "Occupation Certificate",
+      "Income Certificate"
+    ],
+    "application_link": "https://nskfdc.nic.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Mahila Coir Yojana",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 1000000
+    },
+    "category": "Women",
+    "benefits": "Self-employment opportunities to rural women artisans in regions producing coir fibre.",
+    "financial_benefit": "Free training + 75% subsidy on cost of Coir spinning equipment",
+    "required_documents": [
+      "Aadhaar",
+      "Domicile Certificate",
+      "Bank Details"
+    ],
+    "application_link": "https://coirboard.gov.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Senior Care Ageing Growth Engine (SAGE)",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 10000000
+    },
+    "category": "Business",
+    "benefits": "Financial support to startups providing innovative products and services to senior citizens.",
+    "financial_benefit": "Equity support up to Rs. 1 Crore per startup",
+    "required_documents": [
+      "Aadhaar",
+      "DPIIT Startup Recognition",
+      "Pitch Deck on Eldercare"
+    ],
+    "application_link": "https://sage.dosje.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Varishtha Pension Bima Yojana",
+    "state": "All India",
+    "eligibility": {
+      "min_age": 60,
+      "max_income": 10000000
+    },
+    "category": "Senior Citizen",
+    "benefits": "Pension scheme guaranteeing an assured rate of return for senior citizens.",
+    "financial_benefit": "Guaranteed 8% return for 10 years via LIC",
+    "required_documents": [
+      "Aadhaar",
+      "Age Proof",
+      "Bank Details"
+    ],
+    "application_link": "https://licindia.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Pragati Scheme for E-Mobility",
+    "state": "Delhi",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 1000000
+    },
+    "category": "Business",
+    "benefits": "Subsidy on the purchase of Electric Vehicles (EVs) and charging infrastructure in Delhi.",
+    "financial_benefit": "Purchase subsidy of Rs. 30,000 to Rs. 1.5 Lakh depending on EV type",
+    "required_documents": [
+      "Aadhaar",
+      "Delhi Domicile",
+      "EV Purchase Invoice",
+      "Bank Details"
+    ],
+    "application_link": "https://ev.delhi.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "UP Nivesh Mitra (Single Window Clearance)",
+    "state": "Uttar Pradesh",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 100000000
+    },
+    "category": "Business",
+    "benefits": "Provides entrepreneurs with a single-window portal for faster approvals and business setup.",
+    "financial_benefit": "Ease of doing business with faster regulatory clearances",
+    "required_documents": [
+      "Aadhaar",
+      "PAN Card",
+      "Business Registration Docs"
+    ],
+    "application_link": "https://niveshmitra.up.nic.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Navratra Women Empowerment Grant",
+    "state": "Maharashtra",
+    "eligibility": {
+      "min_age": 18,
+      "max_income": 300000
+    },
+    "category": "Women",
+    "benefits": "State grant aimed at helping poor women set up small-scale local businesses.",
+    "financial_benefit": "One-time financial grant for business capital",
+    "required_documents": [
+      "Aadhaar",
+      "MH Domicile",
+      "BPL Certificate"
+    ],
+    "application_link": "https://maharashtra.gov.in",
+    "target_gender": [
+      "Female"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  },
+  {
+    "scheme_name": "Rajasthan Chief Minister Higher Education Scholarship",
+    "state": "Rajasthan",
+    "eligibility": {
+      "min_age": 17,
+      "max_income": 250000
+    },
+    "category": "Student",
+    "benefits": "Scholarship for students passing the Rajasthan Board exam and making it to the merit list.",
+    "financial_benefit": "Rs. 5,000 annually or Rs. 500 per month for 10 months",
+    "required_documents": [
+      "Jan Aadhaar Card",
+      "Class 12 Marksheet",
+      "Income Certificate",
+      "Bank Details"
+    ],
+    "application_link": "https://hte.rajasthan.gov.in",
+    "target_gender": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "target_caste": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ]
+  }
+]
